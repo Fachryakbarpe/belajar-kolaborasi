@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-belajar github di dicoding sangat menyenangkan wow (ini cuman satiran doang)
+ini repository untuk latihan kolaborasi antar akun 
