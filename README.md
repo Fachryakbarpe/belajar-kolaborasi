@@ -11,6 +11,6 @@ ini repository untuk latihan kolaborasi antar akun
 
 ## Komentar Tambahan untuk proses code review  
 
-- dicoding itu aplikasi enak
-- mantap dicoding, aku jadi paham cara mengoperasikan git dan github
-- insyaAllah kedepan nya saya akan belajar lebih giat
+dicoding itu aplikasi enak<br>
+mantap dicoding, aku jadi paham cara mengoperasikan git dan github<br>
+insyaAllah kedepan nya saya akan belajar lebih giat<br>
